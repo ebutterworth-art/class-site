@@ -1,0 +1,107 @@
+body {
+background-color: green;
+
+}
+
+
+
+.border {
+
+  width: 300px;
+  position: fixed;
+  border: 10px solid;
+  left: 20%;
+  top: 5%;
+  width: 100%;
+  text-align: center;
+  font-size: 250px;
+  font-family: sans-serif;
+  color: orange;
+  background-color: green;
+
+}
+
+.border2 {
+
+  width: 300px;
+  position: fixed;
+  border: 1px solid;
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: hotpink;
+  background-color: green
+}
+
+
+.border3 {
+
+  width: 300px;
+  position: relative;
+  border: 1px solid;
+  text-align: center;
+  left: 20%;
+  top: 5%;
+  width: 50%;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: green;
+  background-color: orange;
+}
+
+.border4 {
+
+  width: 300px;
+  border: 1px solid;
+  position: relative;
+  left: 60%;
+  top: 5%;
+  width: 70%;
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: green;
+  background-color: hotpink
+}
+.border5 {
+
+  width: 300px;
+  border: 1px solid;
+  position: relative;
+  left: 80%;
+  top: 5%;
+  width: 40%;
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+  color: green;
+  background-color: orange;
+}
+.border6 {
+  width: 300px;
+  border: 1px solid;
+  position: relative;
+  left: 10%;
+  top: 5%;
+  width: 60%;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  color: green;
+  background-color: hotpink
+}
+
+.border7 {
+
+  width: 300px;
+  border: 1px solid;
+  text-align: center;
+  position: relative;
+  left: 20%;
+  top: 5%;
+  width: 100%;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: green;
+  background-color: orange;
+}

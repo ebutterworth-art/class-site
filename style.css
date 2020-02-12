@@ -1,0 +1,22 @@
+a {
+
+font-size: 60px;
+font-family: cursive;
+font-style: italic;
+text-decoration: none;
+color: hotpink;
+align-items: center;
+}
+
+a:hover {
+
+text-decoration: line-through;
+
+
+}
+
+
+p {
+
+
+}
