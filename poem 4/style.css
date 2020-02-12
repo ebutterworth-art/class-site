@@ -1,0 +1,23 @@
+body {
+
+background-color: #FC1F02;
+position: sticky;
+left: 20%;
+top: 5%;
+width: 100%;
+text-align: center;
+font-size: 50px;
+font-family: serif;
+color: #4179C7;
+font-weight: lighter;
+text-shadow: 6px 6px #E8EC0B;
+}
+
+p {
+
+font-size: 30px;
+font-weight: 600;
+
+}
+
+}
