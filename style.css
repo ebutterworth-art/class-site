@@ -1,22 +1,45 @@
 a {
 
-font-size: 60px;
-font-family: cursive;
-font-style: italic;
+font-size: 150px;
 text-decoration: none;
-color: hotpink;
 align-items: center;
+position: relative;
+width: 100%;
+text-align: center;
+color: #FD0224;
+font-weight: lighter;
+text-shadow: 2px 2px #3802FD;
 }
 
 a:hover {
 
-text-decoration: line-through;
-
+text-decoration: line-through 1px;
+color: #FACD02;
+text-shadow: 2px 2px #FD0224;
 
 }
 
 
+h1 {
+
+  font-size: 40px;
+  align-items: center;
+  position: relative;
+  text-align: center;
+  font-size: 50px;
+  color: #FD0224;
+  font-weight: lighter;
+
+}
+
 p {
 
+  font-size: 20px;
+  align-items: center;
+  position: relative;
+  font-style: italic;
+  text-align: center;
+  color: #3802FD;
+  font-weight: lighter;
 
 }
