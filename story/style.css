@@ -1,0 +1,40 @@
+body {
+
+
+}
+
+p {
+  position: absolute;
+  text-align:center;
+  top: 50%;
+  left: 20%;
+  font-size: 60px;
+  font-family: serif;
+  color: #006699;
+  font-stretch: ultra-expanded;
+
+
+}
+p:hover {
+  position: absolute;
+  text-align:center;
+  top: 50%;
+  left: 20%;
+  font-size: 100px;
+  font-family: serif;
+  color: #006699;
+  font-stretch: ultra-expanded;
+  font-style: italic;
+
+
+}
+
+img {
+height: 75%;
+width: 75%;
+object-position: center;
+left: 10%;
+position: sticky;
+
+
+}
